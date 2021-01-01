@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        app:showAsAction="always"
+        android:id="@+id/item_profile"
+        android:title="@string/profile"
+        android:icon="@drawable/ic_baseline_assignment"/>
+
+    <item
+        app:showAsAction="always"
+        android:id="@+id/item_share"
+        android:title="@string/share"
+        android:icon="@drawable/ic_baseline_share_24"/>
+
+</menu>
